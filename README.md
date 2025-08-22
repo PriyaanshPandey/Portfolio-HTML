@@ -40,12 +40,12 @@ Features **academic achievements** with clickable links that open in a new tab:
 
 4. **JEE Advanced Result**
 
-Key Features
+## Key Features
 
-Form Handling & Navigation → Sign-up form on the landing page that routes to the portfolio.
+1. **Form Handling & Navigation** → Sign-up form on the landing page that routes to the portfolio.
 
-External Linking with Target Attributes → All professional handles and result pages open in new tabs for better user experience.
+2. **External Linking with Target Attributes** → All professional handles and result pages open in new tabs for better user experience.
 
-Separation of Concerns → One page for user input and another dedicated to showcasing personal details and achievements.
+3. **Separation of Concerns** → One page for user input and another dedicated to showcasing personal details and achievements.
 
-Beginner-Friendly HTML Project → Demonstrates practical usage of form elements, hyperlinks, and basic website structuring.
+4. **Beginner-Friendly HTML Project** → Demonstrates practical usage of form elements, hyperlinks, and basic website structuring.
