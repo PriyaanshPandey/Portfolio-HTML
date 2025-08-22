@@ -20,7 +20,7 @@ Includes a **dropdown** (select) option for additional choices.
 
 A **Submit button** validates and redirects the user to the **portfolio page**.
 
- Portfolio Page (About Me Page)
+## Portfolio Page (About Me Page)
 
 Displays basic personal information in a clean and simple layout.
 
