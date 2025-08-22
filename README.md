@@ -53,4 +53,5 @@ Features **academic achievements** with clickable links that open in a new tab:
 
 ## How To Run 
 
-1. Download
+1.**Download** All the images and Html files in one folder so that everything runs properly.
+2. Run the **index.html** file and enjoy.
