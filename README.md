@@ -49,3 +49,8 @@ Features **academic achievements** with clickable links that open in a new tab:
 + **Separation of Concerns** → One page for user input and another dedicated to showcasing personal details and achievements.
 
 + **Beginner-Friendly HTML Project** → Demonstrates practical usage of form elements, hyperlinks, and basic website structuring.
+
+
+## How To Run 
+
+++ h
