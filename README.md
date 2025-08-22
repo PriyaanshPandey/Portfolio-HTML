@@ -8,19 +8,19 @@ Acts as the entry point to the portfolio.
 
 Contains a **Sign-Up** Form with the following input fields:
 
-1. Username
+1. **Username**
 
-2.Mobile number
+2. **Mobile number**
 
-Email address
+3. **Email address**
 
-Password
+4. **Password**
 
-Includes a dropdown (select) option for additional choices.
+Includes a **dropdown** (select) option for additional choices.
 
-A Submit button validates and redirects the user to the portfolio page.
+A **Submit button** validates and redirects the user to the **portfolio page**.
 
-2. Portfolio Page (About Me Page)
+ Portfolio Page (About Me Page)
 
 Displays basic personal information in a clean and simple layout.
 
