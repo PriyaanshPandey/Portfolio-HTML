@@ -53,4 +53,4 @@ Features **academic achievements** with clickable links that open in a new tab:
 
 ## How To Run 
 
-++ h
+1. Download
