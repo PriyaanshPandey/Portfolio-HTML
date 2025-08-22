@@ -1,8 +1,8 @@
-## Project Description
+# Project Description
 
 This project is a two-page **HTML portfolio website** designed to showcase both form handling and personal information display.
 
-# Get Portfolio Page (Landing / Sign-Up Page)
+## Get Portfolio Page (Landing / Sign-Up Page)
 
 Acts as the entry point to the portfolio.
 
