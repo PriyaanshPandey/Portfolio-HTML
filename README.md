@@ -22,23 +22,23 @@ A **Submit button** validates and redirects the user to the **portfolio page**.
 
 ## Portfolio Page (About Me Page)
 
-Displays basic personal information in a clean and simple layout.
+Displays basic **personal information** in a clean and simple layout.
 
-Provides direct links to professional handles, such as:
+Provides direct links to professional **handles**, such as:
 
-LinkedIn profile
+1. **LinkedIn profile**
 
-GitHub profile
+2. **GitHub profile**
 
-Features academic achievements with clickable links that open in a new tab:
+Features **academic achievements** with clickable links that open in a new tab:
 
-Class 10 Marksheet
+1. **Class 10 Marksheet**
 
-Class 12 Marksheet
+2. **Class 12 Marksheet**
 
-JEE Mains Result
+3. **JEE Mains Result**
 
-JEE Advanced Result
+4. **JEE Advanced Result**
 
 Key Features
 
